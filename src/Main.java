@@ -17,6 +17,9 @@ public class Main {
         else if (number>=60) {
             System.out.println("C");
         }
+        else if (number>=50) {
+            System.out.println("D");
+        }
         else  {
             System.out.println("F");
         }
